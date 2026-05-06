@@ -43,5 +43,3 @@ gourmet-plate-restaurant/
 - Omar Mosad
 - Youssef Fawzy
 - Zeinab Emad
-ف
-ف
